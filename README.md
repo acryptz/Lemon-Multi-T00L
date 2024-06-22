@@ -25,3 +25,7 @@ Lemon Multi t00l
 1. [Download source code zip]
 2. Extract zip
 3. Run `start.exe` To open the file
+
+
+### note 
+this is the only offical lemon multi tool i wouldnt recommend downloading from anywhere else thanks
